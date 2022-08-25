@@ -1,5 +1,6 @@
 #Project
-Click to view and test project: https://p0rt1a.github.io/ToDoList/
+My project video:
+https://youtu.be/DlEnLBh7vr8
 
 # TodoList
 
